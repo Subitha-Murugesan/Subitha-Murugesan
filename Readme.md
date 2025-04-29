@@ -3,7 +3,7 @@
 <h2>Skills</h2>
 <p>
 <br>
-Artificial Intelligence, Machine Learning, Natural Language Processing, Transformers, LLMs Integration, Generative Ai, Agentic AI, RAG, Graph RAG</p>
+<b>Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, MLOPS, Transformers, LLMs Integration, Generative AI, Agentic AI, RAG, Graph RAG</b></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
