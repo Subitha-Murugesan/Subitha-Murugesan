@@ -1,9 +1,19 @@
 <h1>Hi 👋, I'm Subitha Murugesan</h1>
 <p>Generative AI Engineer - Intern @ BMW Group | Software Engineer - Bosch | MLOps| Chatbot Developer| AI-ML, NLP, Generative AI, RAG, Graph RAG, LLMs| Master's in International Information Systems @ FAU Erlangen - Nürnberg</p>
 <h2>Skills</h2>
-<p>
-<br>
-<b>Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, MLOPS, Transformers, LLMs Integration, Generative AI, Agentic AI, RAG, Graph RAG</b></p>
+<ul>
+  <li>Artificial Intelligence (AI)</li>
+  <li>Machine Learning (ML)</li>
+  <li>Deep Learning</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>MLOps</li>
+  <li>Transformers</li>
+  <li>LLMs Integration (e.g., GPT, LLama)</li>
+  <li>Generative AI</li>
+  <li>Agentic AI</li>
+  <li>Retrieval-Augmented Generation (RAG)</li>
+  <li>Graph RAG</li>
+</ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
