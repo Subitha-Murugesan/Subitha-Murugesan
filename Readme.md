@@ -33,17 +33,29 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<h2>✒️ Recent Posts</h2>
-<ul>
-  <li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">Generative AI Intern at BMW Group</a></li>
-</ul>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>✒️ Recent Posts</h2>
+      <ul>
+        <li>
+          <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">
+            Generative AI Intern at BMW Group
+          </a>
+        </li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h2>⚡️ Where to find me</h2>
+      <p>
+        <a target="_blank" href="https://www.linkedin.com/in/subitha-murugesan/" style="display: inline-block;">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/subitha-murugesan/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <table>
   <tr>
