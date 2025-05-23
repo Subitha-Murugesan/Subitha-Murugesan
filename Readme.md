@@ -35,9 +35,16 @@
 
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">Gnerative AI Intern at BMW Group</a></li>
+  <li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">Generative AI Intern at BMW Group</a></li>
+</ul>
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/subitha-murugesan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/subitha-murugesan/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td>
@@ -48,5 +55,6 @@
     </td>
   </tr>
 </table>
+
 
 </a></p>
