@@ -38,6 +38,15 @@
 <li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">Gnerative AI Intern at BMW Group</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/subitha-murugesan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subitha-Murugesan&" alt="Subitha-Murugesan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subitha-Murugesan&show_icons=true&locale=en&layout=compact" alt="Subitha-Murugesan" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subitha-Murugesan" alt="Subitha-Murugesan Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subitha-Murugesan&show_icons=true&locale=en&layout=compact" alt="Subitha-Murugesan Top Languages" />
+    </td>
+  </tr>
+</table>
+
 </a></p>
