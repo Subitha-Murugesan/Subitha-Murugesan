@@ -52,7 +52,7 @@
       <h2>✒️ Recent Posts</h2>
       <ul>
         <li>
-         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7376192948482457601/" target="_blank" rel="noopener noreferrer">
+         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7376192948482457601/" target="_blank">
         Generative AI Working Student at BMW Group
        </a>
         </li>
