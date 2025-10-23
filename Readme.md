@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Subitha Murugesan</h1>
-<p>Generative AI Engineer - Working student @ BMW Group | Software Engineer - Bosch | MLOps | Chatbot Developer | AI-ML, NLP, Generative AI, Agentic AI, RAG, Graph RAG, MCP, AWS, LLMs | Master’s in International Information Systems @ FAU Erlangen-Nürnberg Germany</p>
+<p>Generative AI Engineer - Working student @ BMW Group | Software Engineer - Bosch | MLOps| Chatbot Developer| AI-ML, NLP, Generative AI, Agentic AI, RAG, Graph RAG, MCP, AWS, LLMs | Master’s in International Information Systems@FAU Erlangen-Nürnberg </p>
 <h2>Skills</h2>
 <table>
   <tr>
@@ -51,7 +51,11 @@
     <td valign="top">
       <h2>✒️ Recent Posts</h2>
       <ul>
-        
+        <li>
+          <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7376192948482457601/">
+            Generative AI Working Student at BMW Group
+          </a>
+        </li>
         <li>
           <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7314321648239759361/">
             Generative AI Intern at BMW Group
