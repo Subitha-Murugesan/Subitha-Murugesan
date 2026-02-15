@@ -3,13 +3,14 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Subitha-Murugesan&label=Profile+Views&color=00C7B7&style=flat" alt="profile views" />
-    <a href="https://linkedin.com/in/subitha-murugesan">
+    <a href="https://linkedin.com/in/subitha-murugesan" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://subitha-murugesan.github.io/">
+    <a href="https://subitha-murugesan.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
     </a>
 </p>
+
 
 ## Tech Stack & Skills
 
