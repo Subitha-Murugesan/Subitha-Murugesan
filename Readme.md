@@ -13,86 +13,18 @@
 
 ## Tech Stack & Skills
 
-### Generative AI & Agentic Systems
-![Generative AI](https://img.shields.io/badge/-Generative_AI-FF6F00?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/-Agentic_AI-6F42C1?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-0078D7?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/-LangGraph-19B3E7?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/-CrewAI-00C7B7?style=for-the-badge)
-![n8n](https://img.shields.io/badge/-n8n-FF3C00?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/-Transformers-0052CC?style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG-FFB400?style=for-the-badge)
-![Graph RAG](https://img.shields.io/badge/-Graph_RAG-FFB400?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-0078D7?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/-LLM_Integration-412991?style=for-the-badge)
-![MCP](https://img.shields.io/badge/-MCP-6F42C1?style=for-the-badge)
-![A2A](https://img.shields.io/badge/-A2A-6F42C1?style=for-the-badge)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-### AI & ML
-![AI](https://img.shields.io/badge/-Artificial_Intelligence-FF6F00?style=for-the-badge)
-![ML](https://img.shields.io/badge/-Machine_Learning-00C7B7?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/-NLP-FF3C00?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/-MLOps-0194E2?style=for-the-badge)
-
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D7?logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
-
-### Backend & Databases
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-lightgrey?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-0052CC?style=for-the-badge)
-![PGVector](https://img.shields.io/badge/-PGVector-4169E1?style=for-the-badge)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0078D7?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
-
-### Additional Expertise
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-FF6F00?style=for-the-badge)
-![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-FF3C00?style=for-the-badge)
-
+| Category                        | Skills |
+|---------------------------------|--------|
+| Generative AI & Agentic Systems | 1. Generative AI<br>2. Agentic AI<br>3. Google ADK (Agent Development Kit)<br>4. AI Agents<br>5. RAG (Retrieval-Augmented Generation)<br>6. Graph RAG (Graph Retrieval-Augmented Generation)<br>7. LangChain<br>8. LangGraph<br>9. CrewAI<br>10. n8n<br>11. Transformers<br>12. MCP (Model Context Protocol)<br>13. A2A (Agent-to-Agent Protocol)<br>14. Prompt Engineering<br>15. Fine-tuning<br>16. LLM Integration |
+| Programming Languages           | 1. Python |
+| AI & ML                         | 1. Artificial Intelligence (AI)<br>2. Machine Learning (ML)<br>3. Natural Language Processing (NLP)<br>4. MLOps |
+| Cloud                           | 1. AWS (Amazon Web Services)<br>2. Microsoft Azure<br>3. Google Cloud Platform (GCP) |
+| Backend & Databases             | 1. Flask<br>2. FastAPI<br>3. REST API<br>4. SQL<br>5. NoSQL (MongoDB, Neo4j, PGVector) |
+| DevOps & Tools                  | 1. Docker<br>2. Kubernetes<br>3. Jenkins<br>4. CI/CD<br>5. Git<br>6. Linux<br>7. JIRA |
+| Additional Expertise            | 1. End-to-End Project Implementation<br>2. Stakeholder Communication<br>3. Agile Methodologies |
 
 ---
-<h2>Skills</h2>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Artificial Intelligence (AI)</li>
-        <li>Machine Learning (ML)</li>
-        <li>Deep Learning</li>
-        <li>Natural Language Processing (NLP)</li>
-        <li>MLOps</li>
-        <li>Transformers</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>LLMs Integration (e.g., GPT, LLama)</li>
-        <li>Generative AI</li>
-        <li>Agentic AI</li>
-        <li>Retrieval-Augmented Generation (RAG)</li>
-        <li>Graph RAG</li>
-        <li>AI Agents</li>
-        <li>AWS</li>
-        <li>Azure</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
