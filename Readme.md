@@ -1,5 +1,16 @@
 <h1>Hi 👋, I'm Subitha Murugesan</h1>
 <p>Generative AI Engineer - Working student @ BMW Group | AI Engineer - Bosch | MLOps| Chatbot Developer| AI-ML, NLP, Generative AI, Agentic AI, RAG, Graph RAG, MCP, AWS, LLMs | Master’s in International Information Systems@FAU Erlangen-Nürnberg </p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Subitha-Murugesan&label=Profile+Views&color=00C7B7&style=flat" alt="profile views" />
+    <a href="https://linkedin.com/in/subitha-murugesan">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://subitha-murugesan.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+    </a>
+</p>
+
 <h2>Skills</h2>
 <table>
   <tr>
