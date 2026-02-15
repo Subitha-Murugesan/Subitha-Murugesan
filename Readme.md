@@ -34,7 +34,7 @@
 ### AI & ML
 ![AI](https://img.shields.io/badge/-Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![ML](https://img.shields.io/badge/-Machine_Learning-00C7B7?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-FF3C00?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/-NLP-FF3C00?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/-MLOps-0194E2?style=for-the-badge)
 
 ### Cloud
@@ -61,11 +61,8 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
 
 ### Additional Expertise
-![End-to-End Project Implementation](https://img.shields.io/badge/End-to-End%20Project%20Implementation-00C7B7?style=for-the-badge)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-FF6F00?style=for-the-badge)
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-FF3C00?style=for-the-badge)
-
-
 
 
 ---
