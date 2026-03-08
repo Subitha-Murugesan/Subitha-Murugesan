@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Subitha Murugesan</h1>
-<p>Generative AI Engineer - Working student @ BMW Group | AI Engineer - Bosch | MLOps| Chatbot Developer| AI-ML, NLP, Generative AI, Agentic AI, RAG, Graph RAG, MCP, AWS, LLMs | Master’s in International Information Systems@FAU Erlangen-Nürnberg </p>
+<p>Generative AI Engineer - Working student @ BMW Group | AI Engineer - Bosch | MLOps| Chatbot Developer| AI-ML, NLP, Generative AI, Agentic AI, n8n, RAG, Graph RAG, MCP, AWS, LLMs | Master’s in International Information Systems@FAU Erlangen-Nürnberg </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Subitha-Murugesan&label=Profile+Views&color=00C7B7&style=flat" alt="profile views" />
